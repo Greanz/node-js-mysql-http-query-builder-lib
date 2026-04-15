@@ -1,0 +1,26 @@
+{
+  "name": "mysql-http-toolkit",
+  "version": "1.0.0",
+  "description": "Lightweight MySQL query builder and HTTP utility toolkit for Node.js (mysql2 + axios)",
+  "main": "index.js",
+  "keywords": [
+    "mysql",
+    "query-builder",
+    "nodejs",
+    "axios",
+    "http",
+    "express",
+    "database",
+    "sql",
+    "backend",
+    "utility"
+  ],
+  "author": "WISE GRAPHICS INC (TelcoMw)",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.7.0",
+    "mysql2": "^3.11.0",
+    "querystring": "^0.2.1"
+  }
+}
